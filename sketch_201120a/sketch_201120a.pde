@@ -1,6 +1,7 @@
 Spaceship fartShip;
 ArrayList<GameObject> fartObjects;
 Asteroid fartAsteroid;
+Bullet fartBullet;
 boolean wKey, aKey, sKey, dKey, spaceKey, offScreen;
 int mode;
 final int INTRO = 0;
